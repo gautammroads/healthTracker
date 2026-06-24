@@ -1,6 +1,6 @@
 # habit_sync
 
-A new Flutter project
+A new Flutter project and health tracker
 
 ## Getting Started
 
